@@ -1,0 +1,6 @@
+C:\Users\omerb\OneDrive\שולחן העבודה\katia\FirsyAttemptOdBoxProject\DataStructure\bin\Debug\DataStructure.dll
+C:\Users\omerb\OneDrive\שולחן העבודה\katia\FirsyAttemptOdBoxProject\DataStructure\bin\Debug\DataStructure.pdb
+C:\Users\omerb\OneDrive\שולחן העבודה\katia\FirsyAttemptOdBoxProject\DataStructure\obj\Debug\DataStructure.csproj.AssemblyReference.cache
+C:\Users\omerb\OneDrive\שולחן העבודה\katia\FirsyAttemptOdBoxProject\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\omerb\OneDrive\שולחן העבודה\katia\FirsyAttemptOdBoxProject\DataStructure\obj\Debug\DataStructure.dll
+C:\Users\omerb\OneDrive\שולחן העבודה\katia\FirsyAttemptOdBoxProject\DataStructure\obj\Debug\DataStructure.pdb

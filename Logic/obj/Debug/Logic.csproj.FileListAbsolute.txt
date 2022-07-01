@@ -1,0 +1,10 @@
+C:\Users\omerb\OneDrive\שולחן העבודה\katia\FirsyAttemptOdBoxProject\Logic\bin\Debug\Logic.dll
+C:\Users\omerb\OneDrive\שולחן העבודה\katia\FirsyAttemptOdBoxProject\Logic\bin\Debug\Logic.pdb
+C:\Users\omerb\OneDrive\שולחן העבודה\katia\FirsyAttemptOdBoxProject\Logic\bin\Debug\DataStructure.dll
+C:\Users\omerb\OneDrive\שולחן העבודה\katia\FirsyAttemptOdBoxProject\Logic\bin\Debug\DataStructure.pdb
+C:\Users\omerb\OneDrive\שולחן העבודה\katia\FirsyAttemptOdBoxProject\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\omerb\OneDrive\שולחן העבודה\katia\FirsyAttemptOdBoxProject\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\omerb\OneDrive\שולחן העבודה\katia\FirsyAttemptOdBoxProject\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\omerb\OneDrive\שולחן העבודה\katia\FirsyAttemptOdBoxProject\Logic\obj\Debug\Logic.dll
+C:\Users\omerb\OneDrive\שולחן העבודה\katia\FirsyAttemptOdBoxProject\Logic\obj\Debug\Logic.pdb
+C:\Users\omerb\OneDrive\שולחן העבודה\katia\FirsyAttemptOdBoxProject\Logic\bin\Debug\Logic.dll.config
